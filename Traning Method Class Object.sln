@@ -17,15 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Middle Characters", "6. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. NxN Matrix", "07. NxN Matrix\07. NxN Matrix.csproj", "{0C7364B6-0AB2-40A2-8203-1E341A37CFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Advertisement Message", "1. Advertisement Message\1. Advertisement Message.csproj", "{9755FFA1-FCC2-4B5F-8E36-323A7ED44240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Advertisement Message", "1. Advertisement Message\1. Advertisement Message.csproj", "{9755FFA1-FCC2-4B5F-8E36-323A7ED44240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Articles", "2. Articles\2. Articles.csproj", "{D81DF339-53C1-4747-8F36-AA2DE594B3EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Articles", "2. Articles\2. Articles.csproj", "{D81DF339-53C1-4747-8F36-AA2DE594B3EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Students", "04. Students\04. Students.csproj", "{C29AC2DC-A05C-494F-8105-997AE3224A0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Students", "4. Students\4. Students.csproj", "{B1C14F93-10EE-4723-8732-98EDBCA7DA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Students", "4. Students\4. Students.csproj", "{B1C14F93-10EE-4723-8732-98EDBCA7DA62}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Teamwork Projects", "5. Teamwork Projects\5. Teamwork Projects.csproj", "{3A681A26-2325-47C5-A4E6-9FD77B36D6C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Teamwork Projects", "5. Teamwork Projects\5. Teamwork Projects.csproj", "{3A681A26-2325-47C5-A4E6-9FD77B36D6C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,10 +67,6 @@ Global
 		{D81DF339-53C1-4747-8F36-AA2DE594B3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D81DF339-53C1-4747-8F36-AA2DE594B3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D81DF339-53C1-4747-8F36-AA2DE594B3EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C29AC2DC-A05C-494F-8105-997AE3224A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C29AC2DC-A05C-494F-8105-997AE3224A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C29AC2DC-A05C-494F-8105-997AE3224A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C29AC2DC-A05C-494F-8105-997AE3224A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B1C14F93-10EE-4723-8732-98EDBCA7DA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B1C14F93-10EE-4723-8732-98EDBCA7DA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1C14F93-10EE-4723-8732-98EDBCA7DA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
